@@ -17,10 +17,10 @@ npm run dev
 
 ---
 
-## Run Backend:
+## Run Frontend:
 
 ```bash
-cd backend
+cd frontend
 npm install
 npm run dev
 ```
